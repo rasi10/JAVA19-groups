@@ -1,3 +1,5 @@
+## Groups for Assignment 01 - JAVA19 - HT20 - Nackademin
+
 | Group 1                                               | Group 2                                               | Group 3                                               |
 |-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
 | Jessie Eurenius Jessie.Eurenius@yh.nackademin.se      | Leon Wass Vallin	Leon.WassVallin@yh.nackademin.se    | Pedram S.	Pedram.Shirforoushan@yh.nackademin.se       | 
