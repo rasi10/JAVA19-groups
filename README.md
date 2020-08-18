@@ -9,10 +9,10 @@
 
 | Group 4                                               | Group 5                                               | Group 6                                               |
 |-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| Cornelia Persson	Cornelia.Persson@yh.nackademin.se   | Marcus Sjögren	Marcus.Sjogren@yh.nackademin.se       | Rafael Silva - rafael.silva@nackademin.se             | 
-| Eleonor van B.	Eleonor.vanBerkel@yh.nackademin.se    | Patrik Ellboj	Patrik.Ellboj@yh.nackademin.se          | student 4                                             |  
-| Kening Fohlin	Kening.Fohlin@yh.nackademin.se          | Mario Samperi	Mario.Samperi@yh.nackademin.se          | student 4                                             | 
-| Linus Svahn	Linus.Svahn@yh.nackademin.se              | Victor J.	Victor.Jannerlid-Soderberg@yh.nackademin.se | student 4                                             | 
+| Cornelia Persson	Cornelia.Persson@yh.nackademin.se   | Marcus Sjögren	Marcus.Sjogren@yh.nackademin.se       | Joakim – joakim.onnhage@yh.nackademin.se              | 
+| Eleonor van B.	Eleonor.vanBerkel@yh.nackademin.se    | Patrik Ellboj	Patrik.Ellboj@yh.nackademin.se          | Fazli  - Fazli.Zekiqi@yh.nackademin.se                |  
+| Kening Fohlin	Kening.Fohlin@yh.nackademin.se          | Mario Samperi	Mario.Samperi@yh.nackademin.se          | Jacob  -  Jacob.swenson@yh.nackademin.se              | 
+| Linus Svahn	Linus.Svahn@yh.nackademin.se              | Victor J.	Victor.Jannerlid-Soderberg@yh.nackademin.se | Atef   – atef.sendesni@yh.nackademin.se               | 
 
 | Group 7                                               | Group 8                                               | Group 9                                               |
 |-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
