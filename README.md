@@ -5,7 +5,7 @@
 | Jessie Eurenius Jessie.Eurenius@yh.nackademin.se      | Leon Wass Vallin	Leon.WassVallin@yh.nackademin.se    | Pedram S.	Pedram.Shirforoushan@yh.nackademin.se       | 
 | Daniel Hughes	Daniel.Hughes@yh.nackademin.se          | Yuanheng Li	Yuanheng.Li@yh.nackademin.se              | Allan Jamil	Allan.Jamil@yh.nackademin.se              |  
 | Eli Al-Mehr	Eli.AL-Mehr@yh.nackademin.se              | Valentin Eriksson	Valentin.Eriksson@yh.nackademin.se  | Hugo Lindmark	Hugo.Lindmark@yh.nackademin.se          | 
-| Johannes Svensson	Johannes.Svensson@yh.nackademin.se  | student 4                                             | Wilhelm H.	Wilhelm.Hattenbach@yh.nackademin.se       |   
+| Johannes Svensson	Johannes.Svensson@yh.nackademin.se  | Johan Özbek	Johan.Ozbek@yh.nackademin.se              | Wilhelm H.	Wilhelm.Hattenbach@yh.nackademin.se       |   
 
 | Group 4                                               | Group 5                                               | Group 6                                               |
 |-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
