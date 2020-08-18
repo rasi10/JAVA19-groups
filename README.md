@@ -16,9 +16,9 @@
 
 | Group 7                                               | Group 8                                               | Group 9                                               |
 |-------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-|Albin Gudmundsson	albin.gudmundsson@yh.nackademin.se  | Rafael Silva - rafael.silva@nackademin.se             | Rafael Silva - rafael.silva@nackademin.se             | 
-|Fredrik H.	fredrik.HamalainenBilling@yh.nackademin.se  | student 2                                             | student 4                                             |  
-|johan casserfelt	johan.casserfelt@yh.nackademin.se     | student 3                                             | student 4                                             | 
+|Albin Gudmundsson	albin.gudmundsson@yh.nackademin.se  | Daniel Bernhardt	Daniel.Bernhardt@yh.nackademin.se   | Rafael Silva - rafael.silva@nackademin.se             | 
+|Fredrik H.	fredrik.HamalainenBilling@yh.nackademin.se  | Victor Olofsson	Victor.Olofsson@yh.nackademin.se      | student 4                                             |  
+|johan casserfelt	johan.casserfelt@yh.nackademin.se     | Zino Mohydin	Zino.Mohydin@yh.nackademin.se           | student 4                                             | 
 |Malcolm Rudhag	Malcolm.Rudhag@yh.nackademin.se         | student 4                                             | student 4                                             | 
 
 | Group 10                                              | Group 11                                              | Group 12                                              |
