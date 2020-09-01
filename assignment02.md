@@ -23,12 +23,19 @@
 
 | Group 7                                               | Group 8                                               |
 |-------------------------------------------------------|-------------------------------------------------------|
-| Hugo Lindmark Hugo.Lindmark@yh.nackademin.se          | |
-| Wilhelm H. Wilhelm.Hattenbach@yh.nackademin.se        | |
+| Hugo Lindmark Hugo.Lindmark@yh.nackademin.se          | Cornelia Persson Cornelia.Persson@yh.nackademin.se    |
+| Wilhelm H. Wilhelm.Hattenbach@yh.nackademin.se        | Malcolm Rudhag Malcolm.Rudhag@yh.nackademin.se        |
 | Jacob - Jacob.swenson@yh.nackademin.se                | |
 |  | |
 
 | Group 9                                               | Group 10                                              |
+|-------------------------------------------------------|-------------------------------------------------------|
+|  | |
+|  | |
+|  | |
+|  | |
+
+| Group 11                                              | Group 12                                              |
 |-------------------------------------------------------|-------------------------------------------------------|
 |  | |
 |  | |
