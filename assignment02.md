@@ -30,10 +30,10 @@
 
 | Group 9                                               | Group 10                                              |
 |-------------------------------------------------------|-------------------------------------------------------|
-|  | |
-|  | |
-|  | |
-|  | |
+| Johan Özbek Johan.Ozbek@yh.nackademin.se              | |
+| Valentin Eriksson Valentin.Eriksson@yh.nackademin.se  | |
+| Yuanheng Li Yuanheng.Li@yh.nackademin.se              | |
+| Leon Wass Vallin Leon.WassVallin@yh.nackademin.se     | |
 
 | Group 11                                              | Group 12                                              |
 |-------------------------------------------------------|-------------------------------------------------------|
