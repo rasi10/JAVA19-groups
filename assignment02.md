@@ -23,6 +23,13 @@
 
 | Group 7                                               | Group 8                                               |
 |-------------------------------------------------------|-------------------------------------------------------|
+| Hugo Lindmark Hugo.Lindmark@yh.nackademin.se          | |
+| Wilhelm H. Wilhelm.Hattenbach@yh.nackademin.se        | |
+| Jacob - Jacob.swenson@yh.nackademin.se                | |
+|  | |
+
+| Group 9                                               | Group 10                                              |
+|-------------------------------------------------------|-------------------------------------------------------|
 |  | |
 |  | |
 |  | |
