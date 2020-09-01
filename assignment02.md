@@ -13,3 +13,10 @@
 | Allan Jamil	Allan.Jamil@yh.nackademin.se              | Eleonor van B.	Eleonor.vanBerkel@yh.nackademin.se  |
 |                                                       |               
 |                                                       | 
+
+| Group 5                                               | Group 6                                               |
+|-------------------------------------------------------|-------------------------------------------------------|
+| Fredrik H. fredrik.HamalainenBilling@yh.nackademin.se | |
+| Albin Gudmundsson albin.gudmundsson@yh.nackademin.se  | |
+| johan casserfelt johan.casserfelt@yh.nackademin.se    | |
+|      | |
